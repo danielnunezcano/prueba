@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",ES: M. LaLiga HD
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/1/1.m3u8
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",ES: M. LaLiga HD1
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/1/1.m3u8
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",ES: M. LaLiga HD2
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/1/1.m3u8
+#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",ES: M. LaLiga HD3
+http://matiasstornini00.shortcm.li:80/shio1.m3u8

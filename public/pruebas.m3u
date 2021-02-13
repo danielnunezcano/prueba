@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID=”LaLiga“ Tvg-name="LaLiga“ tvg-log=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Deportes",LaLiga
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/1/1.m3u8
+#EXTINF:-1 tvg-ID=”LaLiga English“ Tvg-name="LaLiga English“ tvg-log=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png tvg-name="[" group-title="Deportes",LaLiga English
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/2/2.m3u8
+#EXTINF:-1 tvg-ID=”LaLiga Latino“ Tvg-name="LaLiga Latino“ tvg-log=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png tvg-name="[" group-title="Deportes",LaLiga Latino
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/3/3.m3u8
+#EXTINF:-1 tvg-ID=”Nothing“ Tvg-name="Nothing“ tvg-log=”[ tvg-name="[" group-title="Deportes",Nothing
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/4/4.m3u8
+#EXTINF:-1 tvg-ID=”Nothing“ Tvg-name="Nothing“ tvg-log=”[ tvg-name="[" group-title="Deportes",Nothing
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/5/5.m3u8
+#EXTINF:-1 tvg-ID=”Nothing“ Tvg-name="Nothing“ tvg-log=”[ tvg-name="[" group-title="Deportes",Nothing
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/6/6.m3u8
+#EXTINF:-1 tvg-ID=”LaLiga 2“ Tvg-name="LaLiga 2“ tvg-log=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png tvg-name="[" group-title="Deportes",LaLiga 2
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/7/7.m3u8
+#EXTINF:-1 tvg-ID=”Liga de Campeones“ Tvg-name="Liga de Campeones“ tvg-log=”https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/200px-Movistar_Liga_de_Campeones.svg.png tvg-name="[" group-title="Deportes",Liga de Campeones
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/8/8.m3u8
+#EXTINF:-1 tvg-ID=”Nothing“ Tvg-name="Nothing“ tvg-log=”[ tvg-name="[" group-title="Deportes",Nothing
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/9/9.m3u8
+#EXTINF:-1 tvg-ID=”DAZN 1“ Tvg-name="DAZN 1“ tvg-log=”https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/100px-DAZN_LogoInBox_black.svg.png tvg-name="[" group-title="Deportes",DAZN 1
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/10/10.m3u8
+#EXTINF:-1 tvg-ID=”Nothing“ Tvg-name="Nothing“ tvg-log=”[ tvg-name="[" group-title="Deportes",Nothing
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/11/11.m3u8
+#EXTINF:-1 tvg-ID=”Eurosport“ Tvg-name="Eurosport“ tvg-log=”https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1920px-Eurosport_Logo_2015.svg.png tvg-name="[" group-title="Deportes",Eurosport
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/12/12.m3u8
+#EXTINF:-1 tvg-ID=”Nothing“ Tvg-name="Nothing“ tvg-log=”[ tvg-name="[" group-title="Deportes",Nothing
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/13/13.m3u8
+#EXTINF:-1 tvg-ID=”Nothing“ Tvg-name="Nothing“ tvg-log=”[ tvg-name="[" group-title="Deportes",Nothing
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/14/14.m3u8
+#EXTINF:-1 tvg-ID=”#Vamos“ Tvg-name="#Vamos“ tvg-log=”https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/250px-Vamos.svg.png tvg-name="[" group-title="Deportes",#Vamos
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/15/15.m3u8
+#EXTINF:-1 tvg-ID=”Movistar Deportes“ Tvg-name="Movistar Deportes“ tvg-log=”https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svg tvg-name="[" group-title="Deportes",Movistar Deportes
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/16/16.m3u8

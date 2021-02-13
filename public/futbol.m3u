@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="La liga" tvg-name="LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",LaLiga HD Español
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/1/1.m3u8?per
+#EXTINF:-1 tvg-ID="La liga" tvg-name="LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",LaLiga HD Latino
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/3/3.m3u8?per
+#EXTINF:-1 tvg-ID="La liga" tvg-name="LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",LaLiga HD Inglés
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/2/2.m3u8?per
+#EXTINF:-1 tvg-ID="La liga" tvg-name="LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",LaLiga SD Español
+https://hn1.gt-app.com/hls/BarVSrmi14.m3u8?per
+#EXTINF:-1 tvg-ID="La liga" tvg-name="LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",LaLiga HD Inglés
+https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/c61e86338c1f48cdab2a9854bf793b0f/index5_3.m3u8?per
+#EXTINF:-1 tvg-ID="La liga" tvg-name="LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",LaLiga SD Español
+https://hn2.gt-app.com/hls/BarVSrmi14.m3u8?per
+#EXTINF:-1 tvg-ID="La liga" tvg-name="LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",LaLiga SD Inglés
+http://192.166.246.122/hls/ovostreams12.m3u8?per
+#EXTINF:-1 tvg-ID="La liga" tvg-name="LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Futbol",LaLiga SD Español
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/1/1.m3u8?Manujaz
+#EXTINF:-1 tvg-ID="#Vamos" tvg-name="LaLiga FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/250px-Vamos.svg.png" group-title="Deportes",#Vamos
+https://dailysportbucket70.s3.eu-west-3.amazonaws.com/15/15.m3u8
